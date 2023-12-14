@@ -1,4 +1,4 @@
-![logo](https://github.com/Swami5911/Pardeep-Swami/blob/main/P.png)
+![logo](https://github.com/Swami5911/Swami5911/blob/main/MYGIT.png)
 <h1 align="center">Hi 👋, I'm Pardeep Swami</h1>
 <h3 align="center">A Computer Science Student</h3>
 <img align="right" alt="coding" width="400" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2Sdo35sO6E4Wf0kf41Df01&ust=1702577010313000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD_5riAjYMDFQAAAAAdAAAAABAD">
