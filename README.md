@@ -16,9 +16,9 @@
       <ul>
         <li>🔭 I’m currently exploring the world of <strong>Deep Learning and AI</strong>.</li>
         <li>🌱 I’m focused on learning new frameworks like <strong>TensorFlow and PyTorch</strong>.</li>
-        <li>👨‍💻 You can find all of my projects on my portfolio website: <a href="https://mrswami.w3spaces.com" target="_blank"><strong>mrswami.w3spaces.com</strong></a></li>
+        <li>👨‍💻 You can find all of my projects on my portfolio website: <a href="https://pardeep-swami-portifolio.netlify.app/" target="_blank"><strong>pardeep-swami-portifolio.netlify.app</strong></a></li>
         <li>💬 Ask me about <strong>Python, C++, Data Structures, and Algorithms</strong>.</li>
-        <li>📫 How to reach me: <strong>pardeep.swami.official@gmail.com</strong> (You can change this email)</li>
+        <li>📫 How to reach me: <strong>pardeep.swami.official@gmail.com</strong></li>
         <li>⚡ Fun fact: <strong>I think I am funny.</strong></li>
       </ul>
     </td>
@@ -40,7 +40,7 @@
   <a href="https://kaggle.com/pardeepswami" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pardeepswami" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/mr._swami_5911" target="_blank">
+  <a href="https://instagram.com/mr._swami_511" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr._swami_5911" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/pkswami591" target="_blank">
@@ -49,9 +49,6 @@
   <a href="https://auth.geeksforgeeks.org/user/pardeep_swami/profile" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pardeep_swami/profile" height="30" width="40" />
   </a>
-</p>
-<p align="center">
-  <i><strong>Note:</strong> The LinkedIn/Kaggle URLs have been corrected from "pardeep swami" to "pardeep-swami" and "pardeepswami". Please verify these are correct!</i>
 </p>
 
 ---
@@ -73,13 +70,66 @@
 
 ---
 
+## 🚀 My Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>MedVigil: Sentinel Breast Health System</h3>
+      <p>Developed and deployed ML models for early-stage breast cancer detection. The full-stack system (Flask, Node.js, MongoDB) boosted user interaction by 30% and reduced latency through optimized data flow.</p>
+      <p><strong>Tech:</strong> Python, scikit-learn, Flask, Node.js, MongoDB</p>
+      <a href="https://github.com/Swami5911/MedVigil" target="_blank">View Code</a> | 
+      <a href="#" target="_blank">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>ShopDesk: Inventory Management System</h3>
+      <p>A robust MERN stack web app for inventory management. Features full CRUD operations and a dynamic GST billing system. Backend optimizations reduced data fetch times by 30%.</p>
+      <p><strong>Tech:</strong> React.js, Node.js, Express.js, MongoDB</p>
+      <a href="https://github.com/Swami5911/-ShopDesk-Inventory-Management-System" target="_blank">View Code</a> | 
+      <a href="#" target="_blank">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Movie Info Search App</h3>
+      <p>A responsive movie search web app using the OMDb API. Features include title/genre search, detailed views, and a 'favorites' list using local storage for persistence.</p>
+      <p><strong>Tech:</strong> HTML5, CSS3, JavaScript, OMDb API</p>
+      <a href="https://movie-info-kelvium.netlify.app/" target="_blank">View Code</a> | 
+      <a href="#" target="_blank">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>More to Come...</h3>
+      <p>I am always working on new and exciting projects. Stay tuned for more!</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔬 Research & Publications
+*If you have any research papers or publications, list them here. Otherwise, you can delete this section.*
+
+- **A Novel Approach for Image Deblurring using Generative Adversarial Networks**
+  - Published in *Proceedings of the Fictional Conference on AI, 2025*.
+  - This paper explores a new deep learning architecture to restore blurred images with higher accuracy.
+  - [📄 Read Paper](https://link-to-your-paper.pdf)
+
+---
+
+## 📜 Certifications
+*List any certifications you have earned. You can delete this section if you don't have any.*
+
+- **TensorFlow Developer Certificate** - *Google*
+- **Machine Learning by Stanford University** - *Coursera*
+- **Data Science Professional Certificate** - *IBM*
+
+---
+
 <h3 align="center">My GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swami5911&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swami5911&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swami5911&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swami5911&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swami5911&theme=tokyonight" alt="github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swami5911&theme=tokyonight&hide_border=true" alt="github streak" />
 </p>
