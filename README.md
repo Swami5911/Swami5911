@@ -15,7 +15,7 @@
 - 🧠 Interested in research on **generative models**, **image synthesis**, and **healthcare AI**  
 - 💬 Ask me about **Python, C++, ML Algorithms, DSA, Full-Stack Development**  
 - 🌐 Portfolio: **https://pardeep-swami-portifolio.netlify.app/**  
-- 📩 Email: **pardeep.swami.official@gmail.com**  
+- 📩 Email: **mr.swami0094@gmail.com**  
 - ⚡ Fun Fact: *I debug my life the same way I debug my code.*
 
 ---
@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/pardeep-swami"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://kaggle.com/pardeepswami"><img src="https://skillicons.dev/icons?i=kaggle" width="45"/></a>
-  <a href="https://instagram.com/mr._swami_511"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+  <a href="https://instagram.com/mr._swami_5911"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
   <a href="https://www.hackerrank.com/pkswami591"><img src="https://skillicons.dev/icons?i=hackerrank" width="45"/></a>
   <a href="https://auth.geeksforgeeks.org/user/pardeep_swami/profile"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="45"/></a>
 </p>
@@ -70,8 +70,8 @@ Responsive movie search app powered by OMDb API.
 
 ### **A Novel Approach for Image Deblurring using Generative Adversarial Networks**  
 - Analyzed GAN architectures for restoring blurred images  
-- Published in *Fictional Conference on AI, 2025*  
-📄 *Read Paper:* (Replace with real link when available)
+
+
 
 ---
 
@@ -93,9 +93,6 @@ Responsive movie search app powered by OMDb API.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swami5911&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
----
 
-## 🧠 **Quote that Drives Me**
-> *“First, solve the problem. Then, write the code.”* — John Johnson
 
 ---
