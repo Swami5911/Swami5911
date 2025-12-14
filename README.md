@@ -14,7 +14,7 @@
 - 🌱 Learning & building with **TensorFlow**, **PyTorch**, **OpenCV**, and end-to-end ML pipelines  
 - 🧠 Interested in research on **generative models**, **image synthesis**, and **healthcare AI**  
 - 💬 Ask me about **Python, C++, ML Algorithms, DSA, Full-Stack Development**  
-- 🌐 Portfolio: **https://pardeep-swami-portifolio.netlify.app/**  
+- 🌐 Portfolio: **https://mrswami.netlify.app/**  
 - 📩 Email: **mr.swami0094@gmail.com**  
 - ⚡ Fun Fact: *I debug my life the same way I debug my code.*
 
